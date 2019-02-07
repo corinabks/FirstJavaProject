@@ -5,8 +5,8 @@ public class Main {
         int y = 8;
         int z = x + y;
         int m = 20;
-        int n = 5;
-        int o = m / n;
+        int n = 7;
+        double o = (double)m / n;
         System.out.println("1.Hello");
         System.out.println("Corina");
         System.out.println("2.The addition of x and y is:" + z);
